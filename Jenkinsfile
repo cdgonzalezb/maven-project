@@ -1,3 +1,3 @@
 #!groovy
-@Library('jenkins-shared-library@cl-id-srcei-manager-tx')_
+@Library('jenkins-shared-library@main')_
 deployMain()
